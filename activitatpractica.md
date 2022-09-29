@@ -49,7 +49,12 @@ A la carpeta de Backup els professors domés tindran accés a veure els arxius. 
 ## Exemples d’ús de fer un backup per part de l’administrador/a.
 
 El primer que hauriem de fer seria connectar la conta de google drive a la maquina que estem usant.
-![jijija]()
+
+![jijija](settings.png)
+
 Anant a “Settings” o “configuració” (Depen del idioma del nostre SO) i al apartat de contes online,
 podrem connectar la nostra conta de google amb el SO.
-![No]()
+
+![No](cuenta.png)
+
+![si](Arxius.png)
