@@ -36,3 +36,12 @@ A més a més podrem usar aquest sistema per passar arxius de forma més fàcil 
 
 
 ![captura](presupost.png)
+
+
+
+##Creació de les unitats compartides BACKUP i documents i permisos assignats a cada tipus d’usuari/a.
+
+![captura]()
+A la carpeta de Backup els professors domés tindran accés a veure els arxius. Després a la carpeta de documents feta per als professors i alumnes, donariem permisos de editor als professors i lector als alumnes
+
+
