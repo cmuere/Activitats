@@ -39,9 +39,10 @@ A més a més podrem usar aquest sistema per passar arxius de forma més fàcil 
 
 
 
-##Creació de les unitats compartides BACKUP i documents i permisos assignats a cada tipus d’usuari/a.
+## Creació de les unitats compartides BACKUP i documents i permisos assignats a cada tipus d’usuari/a.
 
 ![captura](Screenshot from 2022-09-29 16-05-20.png)
+
 A la carpeta de Backup els professors domés tindran accés a veure els arxius. Després a la carpeta de documents feta per als professors i alumnes, donariem permisos de editor als professors i lector als alumnes
 
 
