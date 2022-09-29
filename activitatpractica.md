@@ -41,8 +41,15 @@ A més a més podrem usar aquest sistema per passar arxius de forma més fàcil 
 
 ## Creació de les unitats compartides BACKUP i documents i permisos assignats a cada tipus d’usuari/a.
 
-![captura2](Screenshotfrom2022-09-29 16-05-20.png)
+![captura2](permisos.png)    
 
 A la carpeta de Backup els professors domés tindran accés a veure els arxius. Després a la carpeta de documents feta per als professors i alumnes, donariem permisos de editor als professors i lector als alumnes
 
 
+## Exemples d’ús de fer un backup per part de l’administrador/a.
+
+El primer que hauriem de fer seria connectar la conta de google drive a la maquina que estem usant.
+![jijija]()
+Anant a “Settings” o “configuració” (Depen del idioma del nostre SO) i al apartat de contes online,
+podrem connectar la nostra conta de google amb el SO.
+![No]()
