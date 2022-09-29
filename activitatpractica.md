@@ -62,6 +62,6 @@ podrem connectar la nostra conta de google amb el SO.
 
 ## Comproveu si un usuari/a pot eliminar sense voler algun document
 
-![SioNo]()
+![SioNo](borrar.png)
 
 Al no tenir permisos no pot esborrar cap document, al contrari que amb la meva conta de creador.
